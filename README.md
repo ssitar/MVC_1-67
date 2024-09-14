@@ -1,5 +1,8 @@
 65050859 ศศิภรณ์ ฉัตรธงชัย
 
+วิธีรัน
+python app.py
+
 1. Model:
 ไฟล์ที่เกี่ยวข้อง: Model.py, Machine.py, Cow.py
 หน้าที่:
